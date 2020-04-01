@@ -5822,7 +5822,7 @@ is O
 generally O
 associated O
 with O
-sulphide O
+sulphide B-MINERAL
 in O
 greenstone B-STRAT
 belts I-STRAT
@@ -8544,7 +8544,7 @@ Wiluna B-LOCATION
 
 Zinc B-MINERAL
 lead B-MINERAL
-sulphide O
+sulphide I-MINERAL
 and O
 oxide O
 mineralisation O
@@ -12344,7 +12344,7 @@ massive O
 and O
 disseminated O
 matrix O
-sulphides O
+sulphides B-MINERAL
 underlain O
 by O
 a O
@@ -13311,7 +13311,7 @@ to O
 nickel B-MINERAL
 laterite B-ROCK
 and O
-sulphide O
+sulphide B-MINERAL
 exploration O
 . O
 
@@ -14146,12 +14146,12 @@ interpretation O
 is O
 that O
 local O
-sulphide O
+sulphide B-MINERAL
 rich O
 gossans I-ROCK
 and O
 sulphidic O
-cherts O
+cherts B-ROCK
 have O
 originated O
 from O
@@ -14216,7 +14216,7 @@ the O
 presence O
 of O
 nickel B-MINERAL
-sulphide O
+sulphide I-MINERAL
 , O
 however O
 the O
@@ -14232,7 +14232,7 @@ intersections O
 , O
 not O
 the O
-sulphide O
+sulphide B-MINERAL
 intersections O
 . O
 
@@ -14418,7 +14418,7 @@ potential O
 No O
 specific O
 nickel B-MINERAL
-sulphide O
+sulphide I-MINERAL
 targets O
 have O
 been O
@@ -21853,8 +21853,8 @@ belt I-STRAT
 is O
 a O
 proven O
-nickel O
-sulphide O
+nickel B-MINERAL
+sulphide I-MINERAL
 field O
 that O
 contains O
@@ -21912,9 +21912,9 @@ belt I-STRAT
 
 The O
 known O
-nickel B-MINERAL
-sulphide O
-deposits O
+nickel B-ORE_DEPOSIT
+sulphide I-ORE_DEPOSIT
+deposits I-ORE_DEPOSIT
 are O
 located O
 in O
@@ -21956,7 +21956,7 @@ high O
 - O
 grade O
 massive O
-sulphide O
+sulphide B-MINERAL
 accumulations O
 . O
 
@@ -22231,7 +22231,7 @@ of O
 31 O
 The O
 dominant O
-sulphide O
+sulphide B-MINERAL
 phase O
 associated O
 with O
@@ -22338,7 +22338,8 @@ zones O
 of O
 quartz B-MINERAL
 - O
-sulphidecarbonate O
+sulphide B-MINERAL
+carbonate B-MINERAL
 alteration O
 and O
 has O
@@ -26213,7 +26214,7 @@ lateral O
 extent O
 or O
 a O
-sulphide O
+sulphide B-MINERAL
 content O
 too O
 low O
@@ -27510,7 +27511,7 @@ Pyrrhotite B-MINERAL
 is O
 the O
 dominant O
-sulphide O
+sulphide B-MINERAL
 , O
 which O
 has O
@@ -27805,7 +27806,7 @@ they O
 identified O
 a O
 specific O
-sulphide O
+sulphide B-MINERAL
 zone O
 proximal O
 to O
@@ -29925,7 +29926,7 @@ massive O
 to O
 massive O
 banded O
-sulphides B-ROCK
+sulphides B-MINERAL
 within O
 a O
 quartz B-MINERAL
@@ -29944,7 +29945,7 @@ in O
 thickness O
 , O
 with O
-sulphide O
+sulphide B-MINERAL
 contents O
 ranging O
 from O
@@ -29986,7 +29987,7 @@ disseminated O
 mineralisation O
 , O
 with O
-sulphide O
+sulphide B-MINERAL
 comprising O
 5 O
 to O
@@ -30009,7 +30010,7 @@ and O
 below O
 the O
 massive O
-sulphide O
+sulphide B-MINERAL
 zones O
 and O
 is O
@@ -31505,7 +31506,7 @@ in O
 style O
 and O
 relatively O
-sulphide O
+sulphide B-MINERAL
 - O
 rich O
 . O
@@ -31570,7 +31571,7 @@ shale B-ROCK
 horizons O
 . O
 
-Sulphide O
+Sulphide B-MINERAL
 contents O
 tend O
 to O
@@ -35882,7 +35883,7 @@ Palladium O
 Antimonides O
 . O
 
-Sulphide O
+Sulphide B-MINERAL
 phases O
 were O
 identified O
@@ -40303,7 +40304,7 @@ volcanics I-ROCK
 may O
 indicate O
 cobalt O
-sulphide O
+sulphide B-MINERAL
 - O
 gold I-ORE_DEPOSIT
 deposit I-ORE_DEPOSIT
@@ -42423,15 +42424,15 @@ modelled O
 based O
 on O
 total O
-sulphides O
+sulphides B-MINERAL
 rather O
 than O
 as O
 separate O
 zinc B-MINERAL
 and O
-copper B-MINERAL
-lodes O
+copper B-ORE_DEPOSIT
+lodes I-ORE_DEPOSIT
 , O
 Table O
 4 O
@@ -42487,7 +42488,7 @@ of O
 the O
 distribution O
 of O
-sulphides O
+sulphides B-MINERAL
 at O
 Salt O
 Creek O
@@ -42511,7 +42512,7 @@ than O
 a O
 single O
 massive O
-sulphide O
+sulphide B-MINERAL
 , O
 Figure O
 3 O
@@ -43837,7 +43838,7 @@ copper B-MINERAL
 - O
 zinc B-MINERAL
 massive O
-sulphides O
+sulphides B-MINERAL
 on O
 Archaean B-TIMESCALE
 metabasalts B-ROCK
@@ -43929,7 +43930,7 @@ polymetallic O
 , O
 volcanogenic O
 massive O
-sulphides O
+sulphides B-MINERAL
 of O
 the O
 Scuddles O
@@ -44244,7 +44245,7 @@ gold B-MINERAL
 is O
 common O
 , O
-sulphide O
+sulphide B-MINERAL
 content O
 is O
 generally O
@@ -45662,7 +45663,7 @@ by O
 fine O
 to O
 coarse O
-sulphides O
+sulphides B-MINERAL
 , O
 arsenopyrite B-MINERAL
 pyrite I-MINERAL
@@ -45831,7 +45832,7 @@ chlorite B-MINERAL
 . O
 
 Occasional O
-sulphide O
+sulphide B-MINERAL
 horizons O
 exist O
 along O
@@ -45994,7 +45995,7 @@ arsenopyrite B-MINERAL
 chalcopyrite I-MINERAL
 . O
 
-Sulphide O
+Sulphide B-MINERAL
 banding O
 is O
 characterised O
@@ -46002,7 +46003,7 @@ by O
 fine O
 to O
 coarse O
-sulphides O
+sulphides B-MINERAL
 , O
 arsenopyrite B-MINERAL
 pyrite I-MINERAL
@@ -46785,7 +46786,7 @@ is O
 common O
 and O
 accessory O
-sulphides O
+sulphides B-MINERAL
 . O
 
 The O
