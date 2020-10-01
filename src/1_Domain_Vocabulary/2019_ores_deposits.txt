@@ -1,0 +1,118 @@
+aeolian deposit
+alluvial deposit
+aluminium ore
+arsenic ore
+azure copper ore
+base metal
+Base metal deposit
+basemetal
+bedded iron deposit
+bids
+biological deposit
+bismuth ore
+bog iron ore
+brass ore
+brown iron ore
+cadmium ore
+caesium ore
+channel iron deposit
+CID
+CIDs
+chemical deposit
+chromium ore
+coastal zone deposit
+cobalt ore
+cog wheel ore
+colluvial deposit
+copper ore
+copper deposit
+Copper lode
+copper zinc deposit
+dark red silver ore
+dark ruby silver ore
+detrital iron deposit
+detrital scree deposit
+detrital deposit
+Diamond deposit
+DID deposit
+DIDs
+direct shipping iron ore
+direct shipping ore
+DSO
+DSO iron ore
+dry bone ore
+flag lode
+feather ore
+glacigenic deposit
+goethite ore
+gold deposit
+Gold lode
+gold ore
+gold telluride ore
+green lead ore
+iron deposit
+iron ore
+iron ore deposit
+kidney ore
+lacustrine deposit
+lead ore
+lead deposit
+light red silver ore
+light ruby silver ore
+limonite
+lithium ore
+lode
+lode deposit
+Lode gold deposit
+magnetite deposit
+manganese ore
+martite goethite ore
+mesa deposit
+mercury ore
+metal deposit
+nickel ore
+nickel deposit
+nickel sulphide deposit
+nickel sulphide and gold deposit
+orogenic lode
+organic deposit
+Oxide gold deposit
+paint ore
+peacock ore
+pencil ore
+Platinum-group deposit
+Platinum-group element deposit
+PGE deposit
+PGE
+PGM
+PGM resource
+precious metal
+purple copper ore
+pyrrhotite transitional ore
+RAV8
+RAV8 deposit
+red iron ore
+red lead ore
+red silver ore
+residual deposit
+silver ore
+sulfide ore
+sulfide deposit
+supergene
+Supergene deposit
+Supergene gold deposit
+superficial deposit
+tin ore
+turkey fat ore
+velvet copper ore
+Volcanogenic Massive Sulphide deposit
+VMS deposit
+vms
+VHMS deposit
+vhms
+VHMS base metal
+white lead ore
+yellow lead ore
+uranium
+uranium deposit
+WAIO

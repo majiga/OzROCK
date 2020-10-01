@@ -1,0 +1,185 @@
+Aalenian
+Aeronian
+Albian
+Anisian
+Aptian
+Aquitanian
+Archaean
+Archean
+Archean-Proterozoic
+Artinskian
+Asselian
+Bajocian
+Barremian
+Bartonian
+Bashkirian
+Bathonian
+Berriasian
+Burdigalian
+Cainozoic
+Calabrian
+Callovian
+Calymmian
+Cambrian
+Cambrian-Ordovician
+Campanian
+Capitanian
+Carboniferous
+Carboniferous-Permian
+Carnian
+Cenomanian
+Cenozoic
+Changhsingian
+Chattian
+Cisuralian
+Coniacian
+Cretaceous
+Cryogenian
+Danian
+Dapingian
+Darriwilian
+Devonian
+Devonian-Carboniferous
+Drumian
+Ectasian
+Ediacaran
+Ediacaran-Cambrian
+Eifelian
+Emsian
+Eoarchean
+Eoarchean-Paleoarchean
+Eocene
+Famennian
+Floian
+Fortunian
+Frasnian
+Furongian
+Gelasian
+Givetian
+Gorstian
+Guadalupian
+Guzhangian
+Gzhelian
+Hadean
+Hauterivian
+Hettangian
+Hirnantian
+Holocene
+Homerian
+Induan
+Jiangshanian
+Jurassic
+Jurassic-Cretaceous
+Kasimovian
+Katian
+Kimmeridgian
+Kungurian
+Ladinian
+Langhian
+Llandovery
+Lochkovian
+Lopingian
+Lower Cretaceous
+Lower Devonian
+Lower Jurassic
+Lower Ordovician
+Lower Permian
+Lower Triassic
+Ludfordian
+Ludlow
+Lutetian
+Maastrichtian
+Mesoarchean
+Mesoarchean-Neoarchean
+Mesoproterozoic
+Mesoproterozoic-Neoproterozoic
+Mesozoic
+Messinian
+Middle Devonian
+Middle Jurassic
+Middle Ordovician
+Middle Pleistocene
+Middle Triassic
+Miocene
+Mississippian
+Moscovian
+Neoarchean
+Neoarchean-Paleoproterozoic
+Neogene
+Neoproterozoic
+Norian
+Olenekian
+Oligocene
+Ordovician
+Ordovician-Silurian
+Orosirian
+Oxfordian
+Paibian
+Paleoarchean
+Paleoarchean-Mesoarchean
+Paleocene
+Paleogene
+Paleoproterozoic
+Paleoproterozoic-Mesoproterozoic
+Paleozoic
+Pennsylvanian
+Permian
+Permian-Triassic
+Phanerozoic
+Piacenzian
+Pleistocene
+Pliensbachian
+Pliocene
+Pragian
+Precambrian
+Priabonian
+Pridoli
+Proterozoic
+Proterozoic-Cambrian
+Proterozoic-Phanerozoic
+Quaternary
+Rhaetian
+Rhuddanian
+Rhyacian
+Roadian
+Rupelian
+Sakmarian
+Sandbian
+Santonian
+Selandian
+Serpukhovian
+Serravallian
+Sheinwoodian
+Siderian
+Silurian
+Silurian-Devonian
+Sinemurian
+Statherian
+Stenian
+Telychian
+Terreneuvian
+Tertiary
+Thanetian
+Tithonian
+Toarcian
+Tonian
+Tortonian
+Tournaisian
+Tremadocian
+Triassic
+Triassic-Jurassic
+Turonian
+Upper Cretaceous
+Upper Devonian
+Upper Jurassic
+Upper Ordovician
+Upper Permian
+Upper Pleistocene
+Upper Triassic
+Valanginian
+Visean
+Wenlock
+Wordian
+Wuchiapingian
+Ypresian
+Zanclean
